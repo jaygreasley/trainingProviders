@@ -1,10 +1,10 @@
 <section>
 # UK
-- <a href="wellho.net">wellho</a>
-- <a href="steer.me">steer</a>
-- <a href="wegotcoders.com">we got coders</a>
-- <a href="generalassemb.ly">general assembly</a>
-- <a href="coderwave.com">coderwave</a>
+- <a href="http://wellho.net">wellho</a>
+- <a href="http://steer.me">steer</a>
+- <a href="http://wegotcoders.com">we got coders</a>
+- <a href="http://generalassemb.ly">general assembly</a>
+- <a href="http://coderwave.com">coderwave</a>
 - <a href="http://www.makersacademy.com/">makers academy</a>
 - <a href="http://academyclass.com/">academy class</a>
 
