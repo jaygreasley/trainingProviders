@@ -6,7 +6,7 @@
 - <a href="generalassemb.ly">general assembly</a>
 - <a href="coderwave.com">coderwave</a>
 - <a href="http://www.makersacademy.com/">makers academy</a>
-- <a href="http://academyclass.com/">academy class></a>
+- <a href="http://academyclass.com/">academy class</a>
 
 </section>
 
