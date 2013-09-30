@@ -25,3 +25,9 @@
 - <a href="http://www.apprentice.io/">thoughtbot</a>
 - <a href="http://hungryacademy.com/">jumpstartlab & living social</a>
 </section>
+
+<section>
+# MOOC
+- <a href="http://coursera.org">Coursera</a>
+- 
+</section>
